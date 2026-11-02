@@ -1,4 +1,3 @@
-![21 Savage](public/21savage.jpg)
 ## Original Savage Demo 
 
 This is an app that introduces the user to Express and routing. 
